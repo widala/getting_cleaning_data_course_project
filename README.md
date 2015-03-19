@@ -18,7 +18,7 @@ The features of the motion data are described in the feature.txt file.
 The data available in final data set (tidy.txt) are described below:
   -  subject - ID of the volunteer in the motion data study
   -  activity - a descriptive name of the predetermined movements for the volunteers
-  -  The following measurements are present in both average [mean()] and average standard deviation [std()] for each       activity and subject (the meaning of each measurement can be found in features.txt):
+  -  The following measurements are present in both average [mean()] and average standard deviation [std()] for each       activity and subject (the meaning of each measurement can be found in features_info.txt):
      -  timeBodyAccelerometer...X                  
      -  timeBodyAccelerometer...Y                 
      -  timeBodyAccelerometer...Z              
