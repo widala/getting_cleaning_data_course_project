@@ -16,39 +16,39 @@ The activity column was taken from the y_train.txt and y_test.txt files and inte
 The features of the motion data are described in the feature.txt file.
 
 The data available in final data set (tidy.txt) are described below:
-  subject - ID of the volunteer in the motion data study
-  activity - a descriptive name of the predetermined movements for the volunteers
-  The following measurements are present in both average [mean()] and average standard deviation [std()] for each            activity and subject (the meaning of each measurement can be found in features.txt):
-    timeBodyAccelerometer...X                  
-    timeBodyAccelerometer...Y                 
-    timeBodyAccelerometer...Z              
-    timeGravityAccelerometer...X           
-    timeGravityAccelerometer...Y        
-    timeGravityAccelerometer...Z    
-    timeBodyAccelerometerJerk...X  
-    timeBodyAccelerometerJerk...Y
-    timeBodyAccelerometerJerk...Z
-    timeBodyGyroscope...X                   
-    timeBodyGyroscope...Y                      
-    timeBodyGyroscope...Z                       
-    timeBodyGyroscopeJerk...X              
-    timeBodyGyroscopeJerk...Y                 
-    timeBodyGyroscopeJerk...Z                  
-    timeBodyAccelerometerMagnitude           
-    timeGravityAccelerometerMagnitude          
-    timeBodyAccelerometerJerkMagnitude         
-    timeBodyGyroscopeMagnitude                 
-    timeBodyGyroscopeJerkMagnitude
-    frequencyBodyAccelerometer...X
-    frequencyBodyAccelerometer...Y
-    frequencyBodyAccelerometer...Z   
-    frequencyBodyAccelerometerJerk...X
-    frequencyBodyAccelerometerJerk...Y
-    frequencyBodyAccelerometerJerk...Z
-    frequencyBodyGyroscope...X       
-    frequencyBodyGyroscope...Y          
-    frequencyBodyGyroscope...Z                 
-    frequencyBodyAccelerometerMagnitude    
-    frequencyBodyBodyAccelerometerJerkMagnitude
-    frequencyBodyBodyGyroscopeMagnitude     
-    frequencyBodyBodyGyroscopeJerkMagnitude
+  -  subject - ID of the volunteer in the motion data study
+  -  activity - a descriptive name of the predetermined movements for the volunteers
+  -  The following measurements are present in both average [mean()] and average standard deviation [std()] for each       activity and subject (the meaning of each measurement can be found in features.txt):
+     -  timeBodyAccelerometer...X                  
+     -  timeBodyAccelerometer...Y                 
+     -  timeBodyAccelerometer...Z              
+     -  timeGravityAccelerometer...X           
+     -  timeGravityAccelerometer...Y        
+     -  timeGravityAccelerometer...Z    
+     -  timeBodyAccelerometerJerk...X  
+     -  timeBodyAccelerometerJerk...Y
+     -  timeBodyAccelerometerJerk...Z
+     -  timeBodyGyroscope...X                   
+     -  timeBodyGyroscope...Y                      
+     -  timeBodyGyroscope...Z                       
+     -  timeBodyGyroscopeJerk...X              
+     -  timeBodyGyroscopeJerk...Y                 
+     -  timeBodyGyroscopeJerk...Z                  
+     -  timeBodyAccelerometerMagnitude           
+     -  timeGravityAccelerometerMagnitude          
+     -  timeBodyAccelerometerJerkMagnitude         
+     -  timeBodyGyroscopeMagnitude                 
+     -  timeBodyGyroscopeJerkMagnitude
+     -  frequencyBodyAccelerometer...X
+     -  frequencyBodyAccelerometer...Y
+     -  frequencyBodyAccelerometer...Z   
+     -  frequencyBodyAccelerometerJerk...X
+     -  frequencyBodyAccelerometerJerk...Y
+     -  frequencyBodyAccelerometerJerk...Z
+     -  frequencyBodyGyroscope...X       
+     -  frequencyBodyGyroscope...Y          
+     -  frequencyBodyGyroscope...Z                 
+     -  frequencyBodyAccelerometerMagnitude    
+     -  frequencyBodyBodyAccelerometerJerkMagnitude
+     -  frequencyBodyBodyGyroscopeMagnitude     
+     -  frequencyBodyBodyGyroscopeJerkMagnitude
