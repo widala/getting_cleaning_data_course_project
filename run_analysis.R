@@ -44,8 +44,6 @@
         names(masterdata) <- gsub("Acc","Accelerometer",names(masterdata))
         names(masterdata) <- gsub("Mag","Magnitude",names(masterdata))
         names(masterdata) <- gsub("Gyro","Gyroscope",names(masterdata))
-        names(masterdata) <- gsub("^f","frequency",names(masterdata))
-        names(masterdata) <- gsub("^t","time",names(masterdata))
 
 ## Task 2: Extracts only the measurements on the mean and standard deviation for each measurement
     ## Create list of mean() variables, another of std() variables
